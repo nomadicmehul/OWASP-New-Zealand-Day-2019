@@ -15,6 +15,8 @@ It will take place in Auckland, New Zealand. [Full story](https://www.owasp.org/
 * Learn about the different concepts that makes up server secure.  
 * *Organizers* are accountable to clarify queries on the day of event. 
 
+<h2><a href="https://youtu.be/TSGLddT_eG4">Talk video</a></h2>
+
 ### Prerequisite 
 
 * Open-Minded 
